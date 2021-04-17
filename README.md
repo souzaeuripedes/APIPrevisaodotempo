@@ -1,3 +1,2 @@
 # APIPrevisaodotempo
-Meu primeiro API feito seguindo tutorial do youtube e a documentação do site https://openweathermap.org/ 
- 
+Consult the weather forecast based on the location provided by the browser, using an external API https://openweathermap.org/.
